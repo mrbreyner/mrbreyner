@@ -1,10 +1,9 @@
 <h1 align="center">Print('Hi 👋')</h1>
 
-<p align="center">🐻 ¡I am currently learning Dart and Flutter</p>
-<p align="center">🏆 2020 Goals: Contribute and publish open source projects</p>
-<p align="center">👨‍💻 Fond of discovering something new every day</p>
+<p align="left">🐻 ¡I am currently learning Dart and Flutter</p>
+<p align="left">🏆 2020 Goals: Contribute and publish open source projects</p>
+<p align="left">👨‍💻 Fond of discovering something new every day</p>
 
-<h3 align="center">Passionate about software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbreyner" alt="mrbreyner" /> </p>
 
