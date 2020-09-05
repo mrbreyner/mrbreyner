@@ -1,3 +1,9 @@
+<h2 align="center">Print('Hi 👋')</h2>
+
+-🐻 ¡I am currently learning Dart and Flutter
+-🏆 2020 Goals: Contribute and publish open source projects
+-👨‍💻 Fond of discovering something new every day
+
 <h3 align="center">Passionate about software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbreyner" alt="mrbreyner" /> </p>
