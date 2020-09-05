@@ -4,6 +4,7 @@
 <p align="left">🏆 2020 Goals: Contribute and publish open source projects</p>
 <p align="left">👨‍💻 Fond of discovering something new every day</p>
 
+<h3 align="center">Passionate about software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=mrbreyner" alt="mrbreyner" /> </p>
 
