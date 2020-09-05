@@ -1,8 +1,8 @@
-<h2 align="center">Print('Hi 👋')</h2>
+<h1 align="center">Print('Hi 👋')</h1>
 
--🐻 ¡I am currently learning Dart and Flutter
--🏆 2020 Goals: Contribute and publish open source projects
--👨‍💻 Fond of discovering something new every day
+<p align="center">🐻 ¡I am currently learning Dart and Flutter</p>
+<p align="center">🏆 2020 Goals: Contribute and publish open source projects</p>
+<p align="center">👨‍💻 Fond of discovering something new every day</p>
 
 <h3 align="center">Passionate about software development</h3>
 
